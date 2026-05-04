@@ -1,5 +1,6 @@
 ## 🏅 Certification
-![Google Cloud Badge](https://www.skills.google/public_profiles/88a17bf4-8c08-4859-9992-2706a46791ce/badges/23962033)
+
+[![Google Cloud Badge](https://www.skills.google/public_profiles/88a17bf4-8c08-4859-9992-2706a46791ce/badges/23962033)
 # AI Math Tutor Agent 🤖
 
 This project is built using Google ADK.
